@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
+<head>
   <title> About Me - IDT4 </title>
-<head> 
   <style> 
     head {  
       background-color:rgb(80, 80, 80)
