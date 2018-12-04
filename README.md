@@ -1,4 +1,5 @@
 <!doctype html>
+<html>
 <title> About Me - IDT4 
 <head> 
   <style> 
@@ -7,3 +8,5 @@
       }
   
  <h1> About Me </h1>
+
+</html>
