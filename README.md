@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<title> About Me - IDT4 
+  <title> About Me - IDT4 </title>
 <head> 
   <style> 
     head {  
